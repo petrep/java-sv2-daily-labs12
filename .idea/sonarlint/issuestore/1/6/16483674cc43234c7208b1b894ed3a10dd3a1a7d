@@ -1,0 +1,6 @@
+
+b
+java:S2677"LUse or store the value returned from "readLine" instead of throwing it away.(—ü
+N
+java:S1128",Remove this unused import 'java.io.IOError'.(ƒ¾Ğ§øÿÿÿÿ8âÊ·Ìä/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤™Êäşÿÿÿÿ

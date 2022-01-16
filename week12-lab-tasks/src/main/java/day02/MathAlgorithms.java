@@ -1,8 +1,14 @@
 package day02;
 
+import java.util.ArrayList;
+import java.util.LinkedList;
+import java.util.List;
 import java.util.Scanner;
 
 public class MathAlgorithms {
+
+	private List<Integer> myArrayList = new ArrayList<>();
+	private List<Integer> myLinkedList = new LinkedList<>();
 
 	public int greatestCommonDivisor (int firstNumber, int secondNumber) {
 		int gcd = 1;
